@@ -1,0 +1,33 @@
+.aali_tm_header{
+    background-color: #3c3c3c;
+}
+body.dark .aali_tm_hero{
+    background-image: url(../img/hero/12.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.aali_tm_hero .cd-headline{
+    color: #141516;
+}
+.aali_tm_hero .simple_button a{
+    color: #141516;
+}
+.aali_tm_hero .content .hello{
+    color: #141516;
+}
+.aali_tm_hero .stroke_text span{
+    -webkit-text-stroke:4px #141516
+}
+.stroke_text span{
+    font-size:160px;
+}
+
+body.dark .aali_tm_copyright{
+    background-color: #ea4343;
+}
+.aali_tm_copyright .bottom .left p{
+    color: #fff;
+}
+.aali_tm_copyright .bottom .right ul li a{
+    color: #fff;
+}
